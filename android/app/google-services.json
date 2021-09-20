@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "915204151991",
+    "firebase_url": "https://auto-splash.firebaseio.com",
+    "project_id": "auto-splash",
+    "storage_bucket": "auto-splash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915204151991:android:b570bc086c1cf35b208b32",
+        "android_client_info": {
+          "package_name": "autosplash.autosplash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915204151991-b042mmu4iv9nst90bl2n11rj6s9k6ehb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKEek9SFASN1xj-63LfFAqoC6sPFF65LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915204151991-b042mmu4iv9nst90bl2n11rj6s9k6ehb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
